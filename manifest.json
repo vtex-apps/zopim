@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "zopim",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "title": "Zopim",
   "description": "Zopim",
   "builders": {
