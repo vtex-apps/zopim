@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Do not break if Zopim SDK is not loaded.
+
 ## [1.2.0] - 2019-06-27
 
 ### Added
