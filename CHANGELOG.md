@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2019-06-27
+
 ### Added
 - Support for other type of snippet that uses subdomain instead of account key.
 - Support for some methods of the JavaScript API.
