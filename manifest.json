@@ -20,11 +20,15 @@
   },
   "settingsSchema": {
     "title": "Zopim",
+    "description": "You can have either an Account Key or Subdomain. It depends on the type of account you have.",
     "type": "object",
     "properties": {
       "accountKey": {
         "title": "Account Key",
-        "description": "Enter your Account Key",
+        "type": "string"
+      },
+      "subdomain": {
+        "title": "Subdomain",
         "type": "string"
       }
     }
